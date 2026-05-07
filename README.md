@@ -1,6 +1,6 @@
 # 🗞️ FNDNet: Intelligent Fake News Detection
 
-![FNDNet Hero Image](https://socialify.git.ci/naitikmishra/fake-news-detection/image?description=1&font=Inter&name=1&pattern=Circuit%20Board&theme=Light) <!-- Placeholder, assuming typical socialify usage -->
+![FNDNet Hero Image](https://socialify.git.ci/naitikmishra-ai/fake-news-detection/image?description=1&font=Inter&name=1&pattern=Circuit%20Board&theme=Light) <!-- Placeholder, assuming typical socialify usage -->
 
 > A state-of-the-art Deep Learning implementation based on the Convolutional Neural Network research by Kaliyar et al. (2020) to automatically detect and classify fake news.
 
@@ -48,7 +48,7 @@ Ensure you have Python 3.8+ installed.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/fake-news-detection.git
+   git clone https://github.com/naitikmishra-ai/fake-news-detection
    cd fake-news-detection
    ```
 
