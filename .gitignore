@@ -1,0 +1,13 @@
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac OS
+.DS_Store
+
+# We are keeping the dataset directory un-ignored because the user explicitly asked to push the dataset.
